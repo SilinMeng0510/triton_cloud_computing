@@ -1,0 +1,11 @@
+torch
+transformers
+sentencepiece
+protobuf
+onnx
+onnxruntime
+tensorrt
+torchvision
+psutil
+matplotlib
+seaborn
